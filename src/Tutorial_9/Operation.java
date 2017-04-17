@@ -32,7 +32,7 @@ public class Operation implements Runnable{
                 timeAtLastUpdatePerSecCheck = currentTime;
             }
         }
-        System.out.println("App ran for: " + (System.currentTimeMillis() - startTime / 1000) + "seconds");
+        System.out.println("App ran for: " + (System.currentTimeMillis() - startTime / 1000) + " seconds");
     }
 
     public void start(){
