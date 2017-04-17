@@ -1,7 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b2b27d48-2243-47fd-b9f9-81b482b7e770" name="Default" comment="" />
+    <list default="true" id="b2b27d48-2243-47fd-b9f9-81b482b7e770" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Udemy Java Tutorials/Tutorial_10/Main$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Udemy Java Tutorials/Tutorial_10/Main.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Udemy Java Tutorials/Tutorial_11/Main$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Udemy Java Tutorials/Tutorial_11/Main$1InputListener.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Udemy Java Tutorials/Tutorial_11/Main.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Udemy Java Tutorials/Tutorial_12/Main$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Udemy Java Tutorials/Tutorial_12/Main.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Udemy Java Tutorials/Tutorial_12/RenderManager.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Udemy Java Tutorials/Tutorial_12/Renderable.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Tutorial_10/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Tutorial_11/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Tutorial_12_13/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Tutorial_12_13/RenderManager.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Tutorial_12_13/Renderable.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
