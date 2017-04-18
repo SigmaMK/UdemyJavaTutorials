@@ -20,5 +20,7 @@ public class Main {
 
         System.out.println(m.name + " is " + m.age);
         System.out.println(c.name + " is " + c.age);
+
     }
+
 }
